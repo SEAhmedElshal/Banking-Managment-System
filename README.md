@@ -6,3 +6,7 @@ System :
 4- All objects such as ( Balance, Accounts, Fixed Deposit ) are interlinked .
 5- Its shows the full description and flow of Balance, Employee, Fixed Deposit,Customer and Accounts.
 By using software requirement Visual Studio .Net 2017 (Visual C#) & SQL Server 2014(Database – Backend) & Windows Forms App .NET Framework (Form Design )
+
+#Link to watch video on youtube 
+https://www.youtube.com/playlist?list=PLBij9KpN6YwtoEUwxbbkmMhcX--A4P6zJ
+
